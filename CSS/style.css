@@ -1,3 +1,7 @@
+body {
+  font-size: 20px;
+  background-color: crimson;
+}
 .myNav {
   background-color: aqua;
   background-image: url('../img/bg-nav.png');
